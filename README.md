@@ -2,14 +2,15 @@
 
 Bu depo, İDDEF Video Araçları masaüstü uygulamasının indirme dosyalarını ve sürüm notlarını barındırır.
 
-## 🚀 Son Sürümü İndir (v1.0.4)
-*Yayınlanma Tarihi: 23.04.2026*
+## 🚀 Son Sürümü İndir (v1.1.1)
+*Yayınlanma Tarihi: 23.05.2026*
 
-* [🪟 Windows için İndir (setup.exe)](https://github.com/selim-arge/iddef-video-suite-releases/releases/download/v1.0.4/setup.exe)
-* [🍎 macOS için İndir (mac.zip)](https://github.com/selim-arge/iddef-video-suite-releases/releases/download/v1.0.4/mac.zip)
+* [🪟 Windows için İndir (iddef-video-suite-v1.1.1-amd64-setup.exe)](https://github.com/selim-arge/iddef-video-suite-releases/releases/download/v1.1.1/iddef-video-suite-v1.1.1-amd64-setup.exe)
+* [🍎 macOS(İntel) için İndir (iddef-video-suite-v1.1.1-amd64.zip)](https://github.com/selim-arge/iddef-video-suite-releases/releases/download/v1.1.1/iddef-video-suite-v1.1.1-amd64.zip)
+* [🍎 macOS(M1,M2,M3,M4) için İndir (iddef-video-suite-v1.1.1-arm64.zip)](https://github.com/selim-arge/iddef-video-suite-releases/releases/download/v1.1.1/iddef-video-suite-v1.1.1-arm64.zip)
 
 **✨ Sürüm Notu:**
-* Klasör Seçme alanlarına klasör yolu yapıştırma butonu eklendi.
+* Video etiketleme performansı artırırdı.
 
 ---
 
@@ -32,13 +33,17 @@ Bu depo, İDDEF Video Araçları masaüstü uygulamasının indirme dosyaların�
 
 ## 📜 Sürüm Geçmişi
 
+### v1.1.0 (11.05.2026)
+* **Yenilik:** Sentry hata takip sistemi entegre edildi. Performans iyileştirmeleri yapıldı.
+
+### v1.0.4 (23.04.2026)
+* **Yenilik:** Klasör Seçme alanlarına klasör yolu yapıştırma butonu eklendi.
+
 ### v1.0.3 (22.04.2026)
 * **Yenilik:** Hızlı Oturum Açma (SMS kontrolü olmadan) özelliği eklendi.
-* 📥 **İndir:** [Windows (setup.exe)](https://github.com/selim-arge/iddef-video-suite-releases/releases/download/v1.0.3/setup.exe) | [macOS (mac.zip)](https://github.com/selim-arge/iddef-video-suite-releases/releases/download/v1.0.3/mac.zip)
 
 ### v1.0.2 (16.04.2026)
 * **Yenilik:** Otomatik güncelleme kontrolü eklendi.
-* 📥 **İndir:** [Windows (setup.exe)](https://github.com/selim-arge/iddef-video-suite-releases/releases/download/v1.0.2/setup.exe) | [macOS (mac.zip)](https://github.com/selim-arge/iddef-video-suite-releases/releases/download/v1.0.2/mac.zip)
 
 <br>
 
