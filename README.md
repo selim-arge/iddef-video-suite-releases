@@ -2,15 +2,15 @@
 
 Bu depo, İDDEF Video Araçları masaüstü uygulamasının indirme dosyalarını ve sürüm notlarını barındırır.
 
-## 🚀 Son Sürümü İndir (v1.1.1)
-*Yayınlanma Tarihi: 23.05.2026*
+## 🚀 Son Sürümü İndir (v1.1.2)
+*Yayınlanma Tarihi: 27.05.2026*
 
-* [🪟 Windows için İndir (iddef-video-suite-v1.1.1-amd64-setup.exe)](https://github.com/selim-arge/iddef-video-suite-releases/releases/download/v1.1.1/iddef-video-suite-v1.1.1-amd64-setup.exe)
-* [🍎 macOS(İntel) için İndir (iddef-video-suite-v1.1.1-amd64.zip)](https://github.com/selim-arge/iddef-video-suite-releases/releases/download/v1.1.1/iddef-video-suite-v1.1.1-amd64.zip)
-* [🍎 macOS(M1,M2,M3,M4) için İndir (iddef-video-suite-v1.1.1-arm64.zip)](https://github.com/selim-arge/iddef-video-suite-releases/releases/download/v1.1.1/iddef-video-suite-v1.1.1-arm64.zip)
+* [🪟 Windows için İndir (iddef-video-suite-v1.1.2-amd64-setup.exe)](https://github.com/selim-arge/iddef-video-suite-releases/releases/download/v1.1.2/iddef-video-suite-v1.1.2-amd64-setup.exe)
+* [🍎 macOS(İntel) için İndir (iddef-video-suite-v1.1.2-amd64.zip)](https://github.com/selim-arge/iddef-video-suite-releases/releases/download/v1.1.2/iddef-video-suite-v1.1.2-amd64.zip)
+* [🍎 macOS(M1,M2,M3,M4) için İndir (iddef-video-suite-v1.1.2-arm64.zip)](https://github.com/selim-arge/iddef-video-suite-releases/releases/download/v1.1.2/iddef-video-suite-v1.1.2-arm64.zip)
 
 **✨ Sürüm Notu:**
-* Video etiketleme performansı artırırdı.
+* Video yükleme ekranında video durumu sorgulama adresi güncellendi.
 
 ---
 
@@ -32,6 +32,9 @@ Bu depo, İDDEF Video Araçları masaüstü uygulamasının indirme dosyaların�
 ---
 
 ## 📜 Sürüm Geçmişi
+
+### v1.1.1 (23.05.2026)
+* **Yenilik:** Video etiketleme performansı artırırdı.
 
 ### v1.1.0 (11.05.2026)
 * **Yenilik:** Sentry hata takip sistemi entegre edildi. Performans iyileştirmeleri yapıldı.
